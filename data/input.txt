@@ -1,0 +1,33 @@
+Welcome to the Python programming course! This is a comprehensive guide for beginners.
+In this module, we will explore the fundamental concepts of Python development.
+The Python language is known for its simplicity and readability.
+This text file is used as test data for the filtering program.
+Learning Python opens many doors in the software industry.
+Python was created by Guido van Rossum in the late 1980s.
+The program will filter lines containing the word Python and write them to output.txt.
+Many developers prefer Python for data analysis and machine learning tasks.
+This is a sample file with multiple lines of text for testing purposes.
+Python supports multiple programming paradigms including procedural and OOP.
+The filter functionality demonstrates basic file handling in Python.
+Understanding file I/O operations is essential for any Python developer.
+Python has a vast ecosystem of libraries and frameworks.
+This line does not contain the keyword we are searching for.
+Python is widely used in scientific computing and research.
+The main function will read this file and process each line systematically.
+Error handling is an important aspect of robust Python programs.
+Python's syntax emphasizes code readability and reduces program complexity.
+Here is another line without the target word for testing the filter.
+Python continues to be one of the most popular programming languages worldwide.
+The file_handler module provides functions for reading and writing files safely.
+Using context managers (with statements) ensures proper resource management.
+Python's standard library includes many modules for common programming tasks.
+This is additional content to ensure the file has sufficient test data.
+The filter module contains the logic for identifying lines with specific keywords.
+Developing strong fundamentals in Python is crucial for career growth in tech.
+Python's dynamic typing and interpreted nature make it great for rapid prototyping.
+This line is included to add more variety to the test dataset.
+Modules and functions in Python promote code reuse and modular design.
+The program demonstrates the integration of multiple components working together.
+Python's community is known for being welcoming and supportive of newcomers.
+Understanding how to work with files is a fundamental skill for programmers.
+This final line completes our sample input file with diverse content.
